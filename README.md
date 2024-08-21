@@ -40,48 +40,28 @@ The objective of this project is to predict house prices based on various featur
 
 ## 📊 Results
 - **Linear Regression**:
-  - Mean Squared Error: 10,089,009,300.89
-  - Mean Absolute Error: 80,879.10
-  - R^2 Score: 0.918
+  - Mean Squared Error: 10068422551.400879
+  - Root Mean Squared Error: 100341.52954485435
+  - Mean Absolute Error: 81135.56609336878
+  - Mean Absolute Percentage Error: 0.07336544896281169
+  - R^2 Score: 0.9146818498754016
+  - Explained Variance Score: 0.9147412103528018
 
 ## 📈 Visualizations
-1. **Distribution of House Prices**:
-   !Distribution of House Prices
-
-2. **Correlation Heatmap**:
-   !Correlation Heatmap
-
-3. **Pairplot of Features**:
-   !Pairplot of Features
-
-4. **Boxplot of House Prices by Number of Bedrooms**:
-   !Boxplot of House Prices by Number of Bedrooms
-
-5. **Regression Plots**:
+1. **Distribution of House Prices**
+2. **Correlation Heatmap**
+3. **Pairplot of Features**
+4. **Boxplot of House Prices by Number of Bedrooms**
+5. **Regression Plots**
    - House Prices vs. Average Area Income
-     !House Prices vs. Average Area Income
    - House Prices vs. House Age
-     !House Prices vs. House Age
    - House Prices vs. Area Population
-     !House Prices vs. Area Population
-
 6. **Countplot of Number of Bedrooms**:
-   !Countplot of Number of Bedrooms
-
-7. **Predictions vs Actual Values**:
-   !Predictions vs Actual Values
-
-8. **Residuals Plot**:
-   !Residuals Plot
-
-9. **Distribution of Residuals**:
-   !Distribution of Residuals
-
-10. **Errors vs Actual Values**:
-    !Errors vs Actual Values
-
-11. **Percentage Errors vs Actual Values**:
-    !Percentage Errors vs Actual Values
+7. **Predictions vs Actual Values**
+8. **Residuals Plot**
+9. **Distribution of Residuals**
+10. **Errors vs Actual Values**
+11. **Percentage Errors vs Actual Values**
 
 ## 🧪 Manual Testing
 To manually test the model, you can use the `predict_house_price` function to input new values and get the predicted house price. 
